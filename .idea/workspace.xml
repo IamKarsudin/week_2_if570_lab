@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc165c36-8cf6-433f-bdd4-f49985a5d393" name="Changes" comment="Learning more about functions">
+    <list default="true" id="bc165c36-8cf6-433f-bdd4-f49985a5d393" name="Changes" comment="Exploring default values and compact functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -39,7 +39,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloKt" />
+      <module name="week_2_if570_lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -51,6 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.HelloKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.HelloKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,13 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683639809130</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exploring default values and compact functions">
+      <created>1683644029605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683644029605</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exploring the main() function" />
     <MESSAGE value="Learning why (almost) everything has a value" />
     <MESSAGE value="Learning more about functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning more about functions" />
+    <MESSAGE value="Exploring default values and compact functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exploring default values and compact functions" />
   </component>
 </project>
