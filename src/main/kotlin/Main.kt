@@ -1,4 +1,5 @@
 fun main() {
+    //decoration
     val decorations = listOf("rock", "pagoda", "plastic plant", "alligator", "flowerpot")
 
     // eager, creates a new list
